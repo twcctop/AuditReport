@@ -1,5 +1,5 @@
 # ExVul Audit Report Archive
-
+> **Note:** This repo has been archived. Future updates are at https://github.com/exvulsec/auditreport.
 # Public Released AuditReport
 
 ## Smart Contract Audit Report
